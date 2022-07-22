@@ -1,0 +1,30 @@
+
+
+.first{
+    color: rgb(58, 33, 33);
+    margin-left: 80px;
+}
+.second{
+    color: rgb(66, 60, 52);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.third{
+    color: rgb(61, 53, 53);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+hr{
+    width: 80%;
+    color: rgb(36, 30, 30);
+}
+u{
+    text-decoration: underline rgb(161, 157, 157);
+
+}
+.same{
+    display:flex;  
+    margin-left: 100px;
+}
